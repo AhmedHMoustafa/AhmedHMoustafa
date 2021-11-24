@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+### Here you'll find a selected number of projects I have worked on. 
+### Please keep in mind that this profile is still under progress. 
+### More is yet to be uploaded!
 
 <!--
 **AhmedHMoustafa/AhmedHMoustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
